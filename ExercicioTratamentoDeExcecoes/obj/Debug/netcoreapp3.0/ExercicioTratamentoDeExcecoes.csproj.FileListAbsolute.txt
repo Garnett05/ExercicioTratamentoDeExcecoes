@@ -1,0 +1,11 @@
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.exe
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.deps.json
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.runtimeconfig.json
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.runtimeconfig.dev.json
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.dll
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\bin\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.pdb
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\obj\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.csprojAssemblyReference.cache
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\obj\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.AssemblyInfoInputs.cache
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\obj\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.AssemblyInfo.cs
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\obj\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.dll
+D:\Documentos\C#\ExercicioTratamentoDeExcecoes\ExercicioTratamentoDeExcecoes\obj\Debug\netcoreapp3.0\ExercicioTratamentoDeExcecoes.pdb
